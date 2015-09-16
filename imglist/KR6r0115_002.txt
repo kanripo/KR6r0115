@@ -1,0 +1,5 @@
+002-0786a00	T 002-0786a	buddhist/T-taisho/T51/07/T51-0786.png
+002-0786b00	T 002-0786b	buddhist/T-taisho/T51/07/T51-0786.png
+002-0786c00	T 002-0786c	buddhist/T-taisho/T51/07/T51-0786.png
+002-0787a00	T 002-0787a	buddhist/T-taisho/T51/07/T51-0787.png
+002-0787b00	T 002-0787b	buddhist/T-taisho/T51/07/T51-0787.png
