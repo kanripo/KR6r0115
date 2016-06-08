@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 22:20:14.483544
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 14:19
 #+TITLE: 兩部大法相承師資付法記
 #+PROPERTY: CBETA_ID T51n2081
 #+PROPERTY: ID KR6r0115
